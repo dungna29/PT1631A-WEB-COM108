@@ -24,7 +24,7 @@
     <ProjectGuid>{34b24be3-24e0-4812-93c6-a7e5ffcbe2fd}</ProjectGuid>
     <RootNamespace>Bai3ToanTu</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Bai_3_ToanTu</ProjectName>
+    <ProjectName>Bai_1.2_ToanTu</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

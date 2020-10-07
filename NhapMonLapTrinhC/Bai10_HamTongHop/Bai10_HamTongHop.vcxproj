@@ -21,10 +21,10 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{42997714-36c3-4144-9f81-512265d55b0e}</ProjectGuid>
-    <RootNamespace>Bai5ToanTuLogicGan</RootNamespace>
+    <ProjectGuid>{975fe440-24b3-4d7d-b5d1-2624c526e6c6}</ProjectGuid>
+    <RootNamespace>Bai10HamTongHop</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>Bai_1.4_ToanTuLogic_Gan</ProjectName>
+    <ProjectName>Bai_10.0_HamTongHop</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

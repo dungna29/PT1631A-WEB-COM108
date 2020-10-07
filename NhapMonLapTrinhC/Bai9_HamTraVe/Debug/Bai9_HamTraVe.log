@@ -1,0 +1,4 @@
+﻿  HamTraVe.c
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai9_HamTraVe\HamTraVe.c(50,62): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai9_HamTraVe\HamTraVe.c(50,65): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  Bai9_HamTraVe.vcxproj -> D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Debug\Bai9_HamTraVe.exe
