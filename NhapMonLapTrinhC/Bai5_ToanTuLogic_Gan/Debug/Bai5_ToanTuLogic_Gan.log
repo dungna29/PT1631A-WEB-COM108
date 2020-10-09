@@ -1,5 +1,0 @@
-﻿  Main.c
-D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai5_ToanTuLogic_Gan\Main.c(25,8): warning C4101: 'b': unreferenced local variable
-D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai5_ToanTuLogic_Gan\Main.c(25,10): warning C4101: 'c': unreferenced local variable
-D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai5_ToanTuLogic_Gan\Main.c(25,12): warning C4101: 'd': unreferenced local variable
-  Bai5_ToanTuLogic_Gan.vcxproj -> D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Debug\Bai5_ToanTuLogic_Gan.exe

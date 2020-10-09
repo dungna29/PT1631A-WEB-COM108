@@ -1,5 +1,1 @@
-﻿  Main.c
-D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai4_ToanTuSoSanh\Main.c(10,18): warning C4474: 'printf' : too many arguments passed for format string
-D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai4_ToanTuSoSanh\Main.c(10,18): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
-D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai4_ToanTuSoSanh\Main.c(5,21): warning C4101: 'c': unreferenced local variable
-  Bai4_ToanTuSoSanh.vcxproj -> D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Debug\Bai4_ToanTuSoSanh.exe
+﻿
