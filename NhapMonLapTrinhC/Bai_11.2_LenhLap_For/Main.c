@@ -6,6 +6,7 @@
  */
 int main()
 {
+	
 	//Cách thức gọi vòng lặp for
 	//for + tab + xóa 2 ngoặc kéo con trỏ về gần for + tab lần nữa
 	// for (<kiểu dữ liệu> i = 0; i < length; i++)
@@ -21,5 +22,5 @@ int main()
 		scanf_s("%d", &a);
 		printf("Nam ban vua nhap vao: %d\n", a);
 	}
-
+	
 }
