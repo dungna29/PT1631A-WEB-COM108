@@ -1,4 +1,1 @@
-﻿  Main.c
-D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai_11.3_Array\Main.c(52,1): warning C4305: 'initializing': truncation from 'double' to 'float'
-D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai_11.3_Array\Main.c(20,6): warning C4101: 'arrNumber': unreferenced local variable
-  Bai_11.3_Array.vcxproj -> D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Debug\Bai_11.3_Array.exe
+﻿

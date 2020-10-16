@@ -1,0 +1,4 @@
+﻿  Main.c
+D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Bai_11.6_Demo\Main.c(4,17): warning C4101: 'str2': unreferenced local variable
+  LINK : D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Debug\Bai_11.6_Demo.exe not found or not built by the last incremental link; performing full link
+  Bai_11.6_Demo.vcxproj -> D:\OneDrive - FPT EDUCATION\8. Demo\Demo C\PT1631A-WEB-COM108\NhapMonLapTrinhC\Debug\Bai_11.6_Demo.exe
