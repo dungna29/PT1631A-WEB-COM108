@@ -12,7 +12,8 @@ int main() {
 		char inputNguoiDung[100];
 		char tempnoichuoi[100];
 		printf("Moi Ban Nhap Chuoi: \n");
-		gets_s(inputNguoiDung, 100);
+		//Thay vì Scanf
+		gets_s(inputNguoiDung, 100);//Dùng để lấy các ký tự từ bàn phím và cả khoảng trắng
 		printf("Chuoi ban vua nhap vao: %s \n", inputNguoiDung);
 		printf("---------------------------------------------\n");
 
@@ -36,7 +37,7 @@ int main() {
 		printf("4. So sanh 2 chuoi \n");
 		printf("Moi Ban Nhap Chuoi So Sanh: \n");
 		gets_s(tempnoichuoi, 100);
-		printf("So sanh 2 chuoi [%s] va [%s] = %d\n", inputNguoiDung, tempnoichuoi, strcmp(inputNguoiDung, tempnoichuoi));//strcmp dùng để so sánh chuỗi
+		printf("So sanh 2 chuoi [%s] va [%s] = %d\n", inputNguoiDung, tempnoichuoi, strcmp(inputNguoiDung, tempnoichuoi));//strcmp dùng để so sánh chuỗi 
 		printf("---------------------------------------------\n");
 
 		printf("5. Dao nguoc chuoi \n");
@@ -45,12 +46,12 @@ int main() {
 		printf("---------------------------------------------\n");
 
 		printf("6. Viet thuong chuoi \n");
-		_strlwr_s(inputNguoiDung, 100);//_strlwr_s dùng để viết thường toàn bộ ký tự
+		_strlwr_s(inputNguoiDung, 100);//_strlwr_s dùng để viết thường toàn bộ ký tự FPT fpt
 		printf("Chuoi Viet Thuong: [%s] \n", inputNguoiDung);
 		printf("---------------------------------------------\n");
 
 		printf("7. Viet hoa chuoi \n");
-		_strupr_s(inputNguoiDung, 100);//_strlwr_s dùng để viết hoa toàn bộ ký tự
+		_strupr_s(inputNguoiDung, 100);//_strlwr_s dùng để viết hoa toàn bộ ký tự fpt FPT
 		printf("Sau Khi Viet Hoa: [%s]\n", inputNguoiDung);
 		printf("---------------------------------------------\n");
 
